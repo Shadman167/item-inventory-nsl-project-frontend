@@ -1,0 +1,168 @@
+
+
+    .marginTop {
+
+        background: linear-gradient(90deg, #2B5876 0.92%, #464776 95.37%);
+        height: 62px;
+        min-width: 1103px;
+
+    }
+
+    .buttonInventoryAndSearch {
+
+        margin-top: 1.5%;
+        height: 45px;
+        width: 100%;
+        display: flex;
+        margin-bottom: 1.5%;
+        justify-content: space-between;
+        min-width: 1103px;
+        
+    
+    }
+    
+    .buttonInventory {
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        min-width: 145px;
+        height: 40px;
+        background: #045692;
+        color: white;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 20px;
+        line-height: 22px;
+        cursor: pointer;
+    
+    }
+
+    
+
+        .searchBox {
+
+            box-sizing: border-box;
+            display: flex;
+            background: #FFFFFF;
+            color: #333333;
+            opacity: 0.7;
+            display: flex;
+            align-items: center;
+            font-size: 16px;
+            line-height: 48px;
+            align-items: center;
+            padding-left: 10px;
+            margin-right: 2%;
+            
+            
+        
+        }
+
+
+        .row1 {
+
+            display: flex;
+            flex-direction: row;
+            margin-left: 2.1%;
+            height: 35px;
+            background: #CFD5DB;
+            box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.25);
+            margin-bottom: 0.5%;
+            align-items: center;
+            min-width: 1103px;
+        
+        }
+        
+        .rowTable {
+        
+            display: flex;
+            flex-direction: row;
+            margin-left: 2.1%;
+            height: 49px;
+            background: #FAFAFA;
+            box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.25);
+            margin-bottom: 0.5%;
+            align-items: center;
+            min-width: 1103px;
+        
+        
+        }
+
+.imageDetails{
+        
+    font-family: "Arial-Black", sans-serif;
+    width: 11rem;
+    text-align: center;
+    padding-left: 10px;
+    max-width: 1103px;
+
+}
+
+.imageDetailsTitle{
+
+    font-family: "Arial-Black", sans-serif;
+    width: 10.5rem;
+    text-align: center;
+    max-width: 1103px;
+
+}
+
+.serialNameTitle{
+
+    font-family: "Arial-Black", sans-serif;
+}
+
+.categoryNameTitle{
+
+    font-family: "Arial-Black", sans-serif;
+    width: 15.75rem;
+    text-align: center;
+    padding-left: 8px;
+    max-width: 1103px;
+    
+}
+
+.categoryDetails{
+
+    font-family: "Arial-Black", sans-serif;
+    width: 14rem;
+    text-align: center;
+    max-width: 1103px;
+}
+
+
+
+
+.productDetails{
+
+    font-family: "Arial-Black", sans-serif;
+    width: 12.2rem;
+    text-align: center;
+    max-width: 1103px;
+}
+
+
+
+.productName{
+
+    font-family: "Arial-Black", sans-serif;
+    width: 19.75rem;
+    text-align: center;
+    max-width: 1103px;
+    
+}
+
+.productNameTitle{
+
+    font-family: "Arial-Black", sans-serif;
+    width: 20.75rem;
+    text-align: center;
+    max-width: 1103px;
+}
+
+
+
+
+
